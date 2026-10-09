@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1176.97 3454.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_106);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        mix-blend-mode: darken;
+        opacity: .25;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_106-3);
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre_106-2);
+      }
+
+      .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <radialGradient id="Degradado_sin_nombre_106" data-name="Degradado sin nombre 106" cx="-2013.12" cy="329.26" fx="-2013.12" fy="329.26" r="147.27" gradientTransform="translate(3466.5487 10895.9346) rotate(90) scale(4.9743 8.7417)" gradientUnits="userSpaceOnUse">
+      <stop offset=".24" stop-color="#eabc57"/>
+      <stop offset=".52" stop-color="#f2daa3"/>
+      <stop offset=".75" stop-color="#f9f1de"/>
+      <stop offset=".87" stop-color="#fcfbf5"/>
+    </radialGradient>
+    <radialGradient id="Degradado_sin_nombre_106-2" data-name="Degradado sin nombre 106" cx="-1830.41" cy="329.26" fx="-1830.41" fy="329.26" r="147.27" gradientTransform="translate(3466.5485 10895.9346) rotate(90) scale(4.9743 8.7417)" xlink:href="#Degradado_sin_nombre_106"/>
+    <clipPath id="clippath">
+      <rect class="cls-1" y="2398.86" width="1176.97" height="1056.1"/>
+    </clipPath>
+    <radialGradient id="Degradado_sin_nombre_106-3" data-name="Degradado sin nombre 106" cx="-1583.16" cy="329.25" fx="-1583.16" fy="329.25" gradientTransform="translate(3466.5482 10895.9346) rotate(90) scale(4.9743 8.7417)" xlink:href="#Degradado_sin_nombre_106"/>
+  </defs>
+  <g class="cls-5">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <path class="cls-2" d="M81.97,796.21c-47.63-86.23-71.68-186.11-63.86-291.75C38.47,229.42,277.39,10.32,567.06.36c325.44-11.18,592.89,236.38,592.89,543.33,0,95.15-25.71,184.66-70.93,262.51-27.44,47.24-27.43,104.33.01,151.57,48.2,82.99,74.23,179.22,70.58,281.41-10.09,282.76-251.75,513.57-548.97,524.38-325.86,11.84-593.98-235.96-593.98-543.29,0-91.08,23.61-176.99,65.29-252.46,29.59-53.58,29.62-118.03.03-171.61Z"/>
+          <path class="cls-4" d="M81.97,1705.09c-47.63-86.23-71.68-186.11-63.86-291.75,20.36-275.04,259.27-494.14,548.94-504.09,325.44-11.18,592.89,236.38,592.89,543.33,0,95.15-25.71,184.66-70.93,262.51-27.44,47.24-27.43,104.33.01,151.57,48.2,82.99,74.23,179.22,70.58,281.41-10.09,282.76-251.75,513.57-548.97,524.38-325.86,11.84-593.98-235.96-593.98-543.29,0-91.08,23.61-176.99,65.29-252.46,29.59-53.58,29.62-118.03.03-171.61Z"/>
+          <g class="cls-6">
+            <path class="cls-3" d="M81.97,2934.99c-47.63-86.23-71.68-186.11-63.86-291.75,20.36-275.04,259.27-494.14,548.94-504.09,325.44-11.18,592.89,236.38,592.89,543.33,0,95.15-25.71,184.66-70.93,262.51-27.44,47.24-27.43,104.33.01,151.57,48.2,82.99,74.23,179.22,70.58,281.41-10.09,282.76-251.75,513.57-548.97,524.38-325.86,11.84-593.98-235.96-593.98-543.29,0-91.08,23.61-176.99,65.29-252.46,29.59-53.58,29.62-118.03.03-171.61Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
